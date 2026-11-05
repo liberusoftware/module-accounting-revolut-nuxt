@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-revolut-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-revolut",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-revolut-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-revolut.md",
+  "presentationPlan": "projects/accounting/nuxt/accounting-revolut.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
